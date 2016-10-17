@@ -7,3 +7,4 @@ Este incurajata folosirea doar a tehnologiilor si versiunilor specificate mai jo
 | ------------- |:---------------:| ---------:|
 | MySql      	| Ultima versiune | [link]    |
 | Maria DB      | Ultima versiune | [link]    |
+
